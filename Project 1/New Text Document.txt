@@ -1,0 +1,64 @@
+1 N http://google.com
+1 N TAB1NEWADDRESS
+2 N https://ou.edu
+3 N https://hr.ou.edu
+2 N https://google2
+2 N https://google3
+2 N https://google4
+4 N https://ou.edu/1
+5 N https://ou.edu/3
+6 N https://www.youtube.com/watch?v=GSR7A6qmDd4
+6 N https://mail.google.com/mail/u/0/
+7 N http://www.efile.com/tax-service/support/default
+7 N https://exchange.ou.edu/owa/
+1 B
+1 F
+2 B
+2 B
+2 P
+2 F
+1 P
+3 B
+3 N https://exchange.ou.edu/
+3 F
+3 P
+8 N https://sjobs.brassring.com/
+8 N https://portal.adp.com/public/logout.htm
+8 N http://www.timeanddate.com/date/duration.html
+8 P
+8 B
+8 B
+8 F
+8 N https://www.amazon.com/gp/buy/
+8 P
+9 N http://www.allcheapfares.com/
+9 N http://www.walmart.com/
+9 P
+9 B 
+9 B
+9 F
+9 F
+9 P
+10 N http://www.bestbuy.com/
+10 N http://tjmaxx.tjx.com/store/index.jsp
+10 N http://international.syr.edu/
+10 F
+10 B
+10 B
+10 B
+10 P
+11 N http://google.com
+12 N https://ou.edu
+12 P
+12 B
+12 F
+12 P
+13 N https://hr.ou.edu
+13 P
+13 B
+13 F
+13 P
+12 N https://google2
+12 N https://google3
+12 N https://google4
+12 P

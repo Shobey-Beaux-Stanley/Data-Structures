@@ -1,0 +1,10 @@
+Hi Students,
+
+Input file for project 4 has changed according to the format specified by professor in class.
+
+Input file has a number in the first line which specifies how many lines to be read to put into the masterCell.
+
+followed by an unknown number of Boolean queries which has to be read till the EOF . This is part of bonus question.
+
+The updated file is now in D2L.
+
